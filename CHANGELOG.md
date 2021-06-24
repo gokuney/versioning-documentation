@@ -2,6 +2,15 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [2.3.0](https://github.com/gokuney/versioning-documentation/compare/v2.1.0...v2.3.0) (2021-06-24)
+
+
+### Features
+
+* added dev changes ([62019bd](https://github.com/gokuney/versioning-documentation/commit/62019bd5d88f7a4ebb3dfa11897b773beaf1aa09))
+* some feat new v2 ([86ec7dc](https://github.com/gokuney/versioning-documentation/commit/86ec7dcbf43b4d3df45d409502e308d9cc67d2c4))
+* some new feature ([1804ab5](https://github.com/gokuney/versioning-documentation/commit/1804ab54dc46bcbb1b7ecfbdb0da6829ce743524))
+
 ## [2.2.0](https://github.com/gokuney/versioning-documentation/compare/v2.1.0...v2.2.0) (2021-06-24)
 
 
