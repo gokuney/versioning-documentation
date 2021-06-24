@@ -1,0 +1,7 @@
+{
+    "releaseCommitMessageFormat": "release: {{currentTag}}",
+    "types": [
+        {"type": "feat", "section": "feature"},
+        {"type": "fix", "section": "bug"}
+    ]
+}
