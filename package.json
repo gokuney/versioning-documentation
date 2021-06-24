@@ -6,11 +6,21 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "release-master": "standard-version",
+    "commit": "git-cz",
     "release-develop": "standard-version --skip.tag"
   },
   "author": "",
   "license": "ISC",
   "dependencies": {
     "standard-version": "^9.3.0"
+  },
+  "devDependencies": {
+    "commitizen": "^4.2.4",
+    "cz-conventional-changelog": "^3.2.0"
+  },
+  "config": {
+    "commitizen": {
+      "path": "./node_modules/cz-conventional-changelog"
+    }
   }
 }
