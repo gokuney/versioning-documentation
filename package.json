@@ -1,0 +1,16 @@
+{
+  "name": "testing",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "release-master": "standard-version",
+    "release-develop": "standard-version --skip.tag"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "standard-version": "^9.3.0"
+  }
+}
